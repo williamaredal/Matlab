@@ -1,0 +1,1 @@
+dyr = {'hest', 'ku', 'sau', 'gris'};

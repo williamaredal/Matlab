@@ -1,0 +1,1 @@
+adressebok = {'Ole', 'Jens Petrus', 'Donald', 'Harald', 'Egon', 'Ole'; 'Olsen', 'Andersen', 'Duck', 'Rex', 'Olsen', 'Lukkeøye'; 'Myra 13', 'Skomakergata', 'Apalveien 111', 'Ibsens gate 1', 'Jegers gate 12', 'Svingen 3';}
